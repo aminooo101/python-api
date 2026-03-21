@@ -1,1 +1,1 @@
-# python-api-inventory
+# python-api
